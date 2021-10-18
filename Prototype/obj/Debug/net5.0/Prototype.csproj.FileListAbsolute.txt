@@ -1,0 +1,15 @@
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
