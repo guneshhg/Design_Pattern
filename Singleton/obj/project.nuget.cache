@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dKFM+o2hkNH6m1D7QK+ILgk+AazBCBYxIKqJIB23U6ScQ7p/cvfLq8GrGREETAKFk/ivX6RWLm24f9gKJupjWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gunes\\source\\repos\\Design_Patterns\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gunes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
