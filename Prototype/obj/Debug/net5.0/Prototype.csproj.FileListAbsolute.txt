@@ -13,3 +13,4 @@ C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype
 C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\ref\Prototype.dll
 C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.pdb
 C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
+C:\Users\gunes\source\repos\Design_Patterns\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache

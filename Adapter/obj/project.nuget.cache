@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mv+Khj9EsioIVfgstZSj4ZFQ5gvDhPCa2Imul+MYoe4MPPqBdbko9UePl6mfh5eRKawtz5u7eM/0Vsa87TQjTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gunes\\source\\repos\\Design_Patterns\\Adapter\\Adapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gunes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
