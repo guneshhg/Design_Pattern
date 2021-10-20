@@ -32,7 +32,6 @@ namespace Adapter
         {
             return $"This is '{this._adaptee.GetSpecificRequest()}'";
         }
-
     }
 
     class Program

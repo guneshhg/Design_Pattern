@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjQWpRXlfFD894DjDpCb6N3apjhmSI0HsIDBEVsuPFbnbzHrHWZivyh7Jy0s5h2P6ex1nMnY7hGDEgNL5c0mGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gunes\\source\\repos\\Design_Patterns\\Bridge\\Bridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gunes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
